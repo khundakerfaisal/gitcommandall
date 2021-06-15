@@ -1,0 +1,24 @@
+git add [File/Folder add korar jonno]
+git commit -m "Test" [New commit or add r jonno msg shoho]
+git status [status dakhar jonno]
+git log [ki kaj hoisa sob dakhanor jonno]
+git log --oneline [commit gulo single use korar jonno]
+git show [commitno] [using file written word]
+git diff [commitno1] [commitno2]   [2 ta commit r majhe ki chage hoisa dakha jay]
+git checkout [commitno] [FileName]  [commit r majhe onno commit a jump korta use kora hoy]
+
+---github--online--command---
+git clone [gitlink]    [Using repository git link copy and paste it has create the folder in online]
+git add [filename]
+git commit -m "Test" [New commit or add r jonno msg shoho]
+git push [when push it has shown username and password column to input and push the data to github]
+
+--git branch command-------
+git branch [for current branch searching]
+git branch branchA  [NEW Branch create in command]
+git checkout master  [jump one barnch to another branch]
+
+
+
+
+ 
