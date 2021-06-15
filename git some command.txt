@@ -17,7 +17,12 @@ git push [when push it has shown username and password column to input and push 
 git branch [for current branch searching]
 git branch branchA  [NEW Branch create in command]
 git checkout master  [jump one barnch to another branch]
-
+<<<<<<---git marge command-------->>>>
+git branch
+git marge branchA
+<<<---------git fork and pull request------------->>>
+git fork
+git pull
 
 
 
